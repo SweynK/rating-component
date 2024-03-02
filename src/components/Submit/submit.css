@@ -1,0 +1,23 @@
+.center {
+  text-align: center;
+}
+.thanks-icon {
+  margin-top: 13px;
+}
+.rate-score {
+  display: inline-block;
+  margin-top: 32px;
+  border-radius: 30px;
+  background-color: #262e38;
+  padding: 8px 19px 4px 20px;
+  color: #fc7614;
+}
+.thank-you {
+  font-size: 28px;
+  font-weight: bold;
+  color: #fff;
+  margin-top: 32px;
+}
+.we-appreciate {
+  color: #969fad;
+}
